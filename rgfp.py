@@ -8,10 +8,10 @@ import random
 # Start of the main definition.
 def main():
     # The parser object itself.
-    parser = argparse.ArgumentParser(description="This is a parser, of course, to randomly choose a file out of the folder of your choosing.")
+    parser = argparse.ArgumentParser(description="This is a file picker, of course, to randomly choose a file out of the folder of your choosing.")
 
     # Argument(s) of the parser.
-    parser.add_argument("-r", "--recursive", action='store_true', help="Looks for files recursively.")
+    parser.add_argument("-r", "--recursive", action='store_true', help="look for files recursively")
     parser.add_argument("path")
 
     # Parses the arguments (using argparse)
