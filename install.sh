@@ -1,12 +1,12 @@
 #!/bin/sh
 
-echo "Preparing installation of rgfp..."
+echo "Preparing installation of rfp..."
 
-cp ./rgfp.py ./rgfp
+cp ./rfp.py ./rfp
 
-chmod +x ./rgfp
+chmod +x ./rfp
 
 echo "Installing to /usr/local/bin (requires sudo authentication)..."
-sudo mv ./rgfp /usr/local/bin/rgfp
+sudo mv ./rfp /usr/local/bin/rfp
 
-echo "Complete. Run rgfp to execute."
+echo "Complete. Run rfp to execute."
