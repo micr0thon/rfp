@@ -1,7 +1,7 @@
 # rfp
 **Random File Picker.**
 
-*As of 10/26/2026, rgfp (Randomly Generated File Picker) will be rfp (Random File Picker).*
+*As of 26/10/2026 (26 October 2026), rgfp (Randomly Generated File Picker) will be rfp (Random File Picker).*
 
 This is Random File Picker (rfp), and it is a Linux-optimized (I'd guess it's functional on Windows? Could be. I don't have a Windows computer to test with.) file picker, that, by the name, chooses randomly.
 
