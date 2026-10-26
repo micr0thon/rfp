@@ -9,4 +9,7 @@ This is Random File Picker (rfp), and it is a Linux-optimized (I'd guess it's fu
 Actually, it's pretty simple. Example command: `rfp -r ~/Pictures`. This example command uses rfp to recursively (-r, or --recursive) search a user's own Pictures directory, in their user directory.
 
 `rfp` - *Runs rfp (Random File Picker).*
+
 `-r` or `--recursive` (optional) - *Searches a directory recursively.*
+
+`-f` or `--filetype` (optional) - *Looks for a specific filetype.*
