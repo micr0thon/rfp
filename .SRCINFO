@@ -1,0 +1,12 @@
+pkgbase = rgfp
+	pkgdesc = A lightweight randomized file picker built in Python.
+	pkgver = 1.0.1
+	pkgrel = 1
+	url = https://github.com/micr0thon/rgfp
+	arch = any
+	license = AGPL-3.0-only
+	depends = python
+	source = rgfp-1.0.1.tar.gz::https://github.com/micr0thon/rgfp/archive/refs/tags/v1.0.1.tar.gz
+	sha256sums = SKIP
+
+pkgname = rgfp
